@@ -1,0 +1,27 @@
+.main1{
+ border: 5px solid rgb(135, 62, 138);
+ width :300px;
+height:340px;
+margin:0 auto;
+}
+.input1 input{
+    border: 5px solid rgb(122, 33, 224);
+    width:286px;
+    height:60px;
+    
+}
+.cle1 {
+    border: 5px solid rgb(69, 41, 233);
+    width:300px;
+    height: 50px;
+    margin-top: 1px;
+    
+}
+.btn{
+    border: 5px solid rgb(122, 33, 224);
+    width:70px;
+    margin-left:1.5px;
+   
+    margin-top:3px;
+    height: 50px;
+}
